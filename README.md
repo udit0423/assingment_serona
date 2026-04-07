@@ -4,7 +4,7 @@
 
 Redesigned the Sirona website to create a **modern, clean, and conversion-focused user experience**, improving usability and navigation.
 
-🔗 **Figma Prototype Link:** *(https://www.figma.com/design/CQhFFWa6mWswsm1abLssi4/Untitled?node-id=1-1669&t=2OOdMlO7JVDSiP32-1)*
+🔗 **Figma Prototype Link:** *(https://www.figma.com/proto/CQhFFWa6mWswsm1abLssi4/Untitled?node-id=1-1669&t=2OOdMlO7JVDSiP32-1)*
 
 ---
 
