@@ -44,31 +44,41 @@ Redesigned the Sirona website to create a **modern, clean, and conversion-focuse
 ## 🔴 Issue 1: Weak Visual Hierarchy
 
 **Problem:** No clear priority
+
 **Impact:** Confusion
+
 **Solution:** Structured layout
 
 ## 🔴 Issue 2: Low CTA Visibility
 
 **Problem:** CTAs not prominent
+
 **Impact:** Low conversions
+
 **Solution:** High-contrast buttons
 
 ## 🔴 Issue 3: Poor Scan-ability
 
 **Problem:** Text-heavy content
+
 **Impact:** User fatigue
+
 **Solution:** Icons + bullets
 
 ## 🔴 Issue 4: Inconsistent Spacing
 
 **Problem:** Uneven layout
+
 **Impact:** Unpolished UI
+
 **Solution:** Grid system
 
 ## 🔴 Issue 5: Complex Navigation
 
 **Problem:** Hard to explore
+
 **Impact:** Drop-offs
+
 **Solution:** Simplified structure
 
 ---
@@ -76,7 +86,9 @@ Redesigned the Sirona website to create a **modern, clean, and conversion-focuse
 # 🎨 Design Guidelines
 
 * Followed brand colors & typography
+
 * Maintained clean and consistent layout
+
 * Focused on user-friendly design
 
 ---
